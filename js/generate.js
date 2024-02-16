@@ -1,8 +1,8 @@
 /*
 author：jamonbread;
 generate time：2024
-description：The long script below is used to encrypt 
-             password with MD5 in several ways.			 
+description：The following long script is used to encrypt passwords using 
+			 various forms of MD5 algorithms		 
 */
 
 
